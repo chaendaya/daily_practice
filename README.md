@@ -1,5 +1,5 @@
 # daily_practice
 C++ daily practice
 
-! do not trust my code !
+! do not trust this codes !
 just practice
