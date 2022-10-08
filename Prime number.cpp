@@ -31,7 +31,7 @@ int main() {
 string checking() {
 
 	int i = 2;
-	int j = num - 1;
+	int j = num - 1; // int j = (n+1)/2;
 
 	while(true)
 	{
@@ -48,12 +48,14 @@ string checking() {
 			result = " is a prime number.";
 			break;
 		}
-		/*if (num % i == 0) {
+		/*
+		
+		if (num % i == 0) {
 			result = " is not a prime number.";
 			break;
 		}
 
-		if (i = (num-1)) {
+		if (i == j) {
 			result = " is a prime number.";
 			break;
 		}
